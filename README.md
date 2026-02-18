@@ -19,3 +19,6 @@ A simple AI Image Generator built using Stable Diffusion and Gradio.
 
 ```bash
 pip install -r requirements.txt
+
+
+Updated project documentation
